@@ -1,1 +1,1 @@
-https://artur3737.github.io/
+link: https://artur3737.github.io/
