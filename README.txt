@@ -1,1 +1,1 @@
-link: https://artur3737.github.io/
+link: https://arturkoval.github.io/ArturKovalgithub.io/
